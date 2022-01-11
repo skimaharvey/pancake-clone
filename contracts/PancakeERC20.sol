@@ -1,4 +1,4 @@
-pragma solidity >=0.5.0;
+pragma solidity =0.5.16;
 
 import "./interfaces/IPancakeERC20.sol";
 import "./libraries/SafeMath.sol";
